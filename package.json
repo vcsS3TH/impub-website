@@ -1,0 +1,28 @@
+{
+  "name": "impub-website",
+  "version": "1.0.0",
+  "description": "IMPUB Dietrich Weber - Consulting & Project Management Website",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.48.0",
+    "nodemailer": "^6.9.7",
+    "next-seo": "^6.1.0",
+    "tailwindcss": "^3.3.6",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "@types/node": "^20.8.9",
+    "@types/react": "^18.2.31",
+    "@types/react-dom": "^18.2.14"
+  }
+}
